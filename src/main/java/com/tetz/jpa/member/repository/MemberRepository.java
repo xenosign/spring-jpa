@@ -1,6 +1,6 @@
 package com.tetz.jpa.member.repository;
 
-import com.tetz.jpa.domain.Member;
+import com.tetz.jpa.jpashop.domain.Member;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.PersistenceContext;
 import org.springframework.stereotype.Repository;

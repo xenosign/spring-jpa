@@ -1,7 +1,7 @@
 package com.tetz.jpa.member.repository;
 
 
-import com.tetz.jpa.domain.Member;
+import com.tetz.jpa.jpashop.domain.Member;
 import jakarta.transaction.Transactional;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;

@@ -1,4 +1,4 @@
-package com.tetz.jpa.domain;
+package com.tetz.jpa.jpashop.domain;
 
 public enum OrderStatus {
     ORDER, CANCEL;

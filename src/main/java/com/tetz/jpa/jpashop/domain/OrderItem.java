@@ -1,6 +1,6 @@
-package com.tetz.jpa.domain;
+package com.tetz.jpa.jpashop.domain;
 
-import com.tetz.jpa.domain.item.Item;
+import com.tetz.jpa.jpashop.domain.item.Item;
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;

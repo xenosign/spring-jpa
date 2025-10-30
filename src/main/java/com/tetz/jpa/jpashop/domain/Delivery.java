@@ -1,4 +1,4 @@
-package com.tetz.jpa.domain;
+package com.tetz.jpa.jpashop.domain;
 
 import jakarta.persistence.*;
 import lombok.Getter;
